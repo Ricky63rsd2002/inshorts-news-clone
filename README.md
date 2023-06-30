@@ -1,5 +1,8 @@
 # inshorts-news-clone
 This a clone of the famous short news website inshorts.com built-in MERN Stack
+
+
+
 ![Screenshot (190)](https://github.com/Ricky63rsd2002/inshorts-news-clone/assets/110671339/f2eeba3c-125d-4efd-b43d-77f5cd495f69)
 
 
